@@ -152,8 +152,8 @@ Java控制事物行为分析：
 	3).前端交互很重要不要忽略，尤其是一些复杂产品的需求
 	4).Bootstrap和JS的使用，JS的模块化以及以下良好的面向对象的机制去书写json
 	
-	![image](https://github.com/llsrlmz/seckill/raw/master/src/main/webapp/resources/imags/readme/31.png)
-
+  ![image](https://github.com/llsrlmz/seckill/raw/master/src/main/webapp/resources/imags/readme/31.png)
+	
 4.并发优化:
 	1).分析找到性能瓶颈来优化
 	2).有事务必然有锁，对于长时间持有锁的程序我们需要考虑网络延迟，对于Java程序也会有GC的影响，对于这些如何去避免。
