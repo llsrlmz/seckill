@@ -162,3 +162,5 @@ Java控制事物行为分析：
 	
   ![image](https://github.com/llsrlmz/seckill/raw/master/src/main/webapp/resources/imags/readme/32.png)
 
+谢谢您拜读，如有有误之处，请您告诉我。3q ^.^ .
+如下载本项目并运行除了别忘了修改成您自己的配置文件和建立两个数据库，记得把项目在webserver中path修改为“/”。  :)
